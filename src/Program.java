@@ -1,11 +1,6 @@
-package Application;
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
-
-import entities.Graph;
-import entities.Leitura;
 
 public class Program {
 
